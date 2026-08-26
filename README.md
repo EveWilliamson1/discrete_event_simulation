@@ -25,8 +25,8 @@ Based on the results, I proposed changes including weekend coverage, a part-time
 
 ## Project Files
 
-📄 **[View the full report](./Maintenance_System_Simulation_Report.pdf)**  
-🖥️ **[SIMUL8 model](./Maintenance_System_Model.S8)**
+📄 **[View the full report](./report.pdf)**  
+🖥️ **[SIMUL8 model](./model.S8)**
 
 The `.S8` file contains the original simulation model and requires SIMUL8 to open.
 
